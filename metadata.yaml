@@ -1,0 +1,47 @@
+_repo: Sketch-Book-of-the-North_54083
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Monro, A.
+    gutenberg_agent_id: '47698'
+    url: http://www.gutenberg.org/2009/agents/47698
+  - agent_name: Reid, S.
+    gutenberg_agent_id: '47699'
+    url: http://www.gutenberg.org/2009/agents/47699
+  - agent_name: Boyd, A. S. (Alexander Stuart)
+    alias: Boyd, Alexander Stuart
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '4548'
+    url: http://www.gutenberg.org/2009/agents/4548
+  - agent_name: Mann, Harrington
+    birthdate: 1864
+    deathdate: &id001 1937
+    gutenberg_agent_id: '47700'
+    url: http://www.gutenberg.org/2009/agents/47700
+creator:
+  author:
+    agent_name: Eyre-Todd, George
+    aliases:
+    - Eyre, George
+    - Eyre-Todd, G. (George)
+    birthdate: 1862
+    deathdate: *id001
+    gutenberg_agent_id: '45540'
+    url: http://www.gutenberg.org/2009/agents/45540
+description: ''
+gutenberg_issued: '2017-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Scotland -- History'
+- !lcsh 'Scotland -- Description and travel'
+- GITenberg
+title: Sketch-Book of the North
+url: http://www.gutenberg.org/ebooks/54083
