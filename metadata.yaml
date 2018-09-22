@@ -16,9 +16,12 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/4548
   - agent_name: Mann, Harrington
     birthdate: 1864
-    deathdate: &id001 1937
+    deathdate: 1937
     gutenberg_agent_id: '47700'
     url: http://www.gutenberg.org/2009/agents/47700
+covers:
+- cover_type: archival
+  image_path: 54083-h/images/cover.jpg
 creator:
   author:
     agent_name: Eyre-Todd, George
@@ -26,10 +29,12 @@ creator:
     - Eyre, George
     - Eyre-Todd, G. (George)
     birthdate: 1862
-    deathdate: *id001
+    deathdate: 1937
     gutenberg_agent_id: '45540'
     url: http://www.gutenberg.org/2009/agents/45540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54083#Sketch-Book-of-the-North
 gutenberg_issued: '2017-01-31'
 gutenberg_type: Text
 identifiers:
